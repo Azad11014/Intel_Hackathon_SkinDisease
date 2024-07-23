@@ -24,7 +24,7 @@ idna==3.7
 Jinja2==3.1.4
 jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
-keras==2.14.0
+keras==2.15.0
 kiwisolver==1.4.5
 libclang==18.1.1
 Markdown==3.6
@@ -60,8 +60,8 @@ streamlit==1.36.0
 tenacity==8.5.0
 tensorboard==2.15.2
 tensorboard-data-server==0.7.2
-tensorflow==2.14.0
-tensorflow-estimator==2.14.0
+tensorflow==2.15.0
+tensorflow-estimator==2.15.0
 
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
